@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Almisato06
+- 👋 Hi, 
 - 👀 I’m interested in news technology 
 <!---
 Almisato06/Almisato06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
